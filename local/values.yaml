@@ -1,5 +1,5 @@
 spring-boot-chart:
   image: 
     repository: "ghcr.io/devsejong/k8s-spring-sample"
-    tag: "141702a7688f8279f8480a6b2b37a6d2b3921013"
+    tag: "b99404cb247e59a57636c88061bde61b04e7f5d5"
   
