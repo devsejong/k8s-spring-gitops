@@ -1,5 +1,5 @@
 spring-boot-chart:
   image: 
-    repository: "jhidalgo3/spring-echo-example"
+    repository: "ghcr.io/devsejong/k8s-spring-sample:141702a7688f8279f8480a6b2b37a6d2b3921013"
     tag: "latest"
   
