@@ -25,4 +25,4 @@ appVersion: "1.0"
 dependencies:
 - name: spring-boot-chart
   version: 4.0.0
-  repository: https://jhidalgo3.github.io/helm-charts/
+  repository: "../spring-boot-chart"
