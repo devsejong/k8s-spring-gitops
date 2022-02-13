@@ -1,0 +1,5 @@
+spring-boot-chart:
+  image: 
+    repository: "jhidalgo3/spring-echo-example"
+    tag: "latest"
+  
